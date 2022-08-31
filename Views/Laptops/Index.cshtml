@@ -1,0 +1,53 @@
+﻿@using WebApps.Entities
+
+@model LaptapDto
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+@using (@Html.BeginForm("Index", "LapTops", FormMethod.Post))
+{
+    <label for="laptop">Search:-   </label>
+    @Html.DropDownListFor(m => m.Name, Model.LaptopDropDown, "Select", new { onchange = @"form.submit();" });
+}
+
+
+
+<table class="table" id="tables">
+    <thead>
+            <tr>
+                <th>
+                    @Html.Label("Brand")
+                </th>
+                <th>
+                    @Html.Label("Model Name")
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+    <tbody>
+        @foreach (var item in Model.LaptopTable)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Brand)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ModelName)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

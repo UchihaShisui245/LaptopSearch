@@ -1,0 +1,195 @@
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.csproj.AssemblyReference.cache
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.AssemblyInfoInputs.cache
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.AssemblyInfo.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.csproj.CoreCompileInputs.cache
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.RazorAssemblyInfo.cache
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.RazorAssemblyInfo.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\WebApps.StaticWebAssets.xml
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\WebApps.exe
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\WebApps.deps.json
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\WebApps.runtimeconfig.json
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\WebApps.runtimeconfig.dev.json
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\WebApps.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\WebApps.pdb
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\WebApps.Views.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\WebApps.Views.pdb
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\staticwebassets\WebApps.StaticWebAssets.Manifest.cache
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\staticwebassets\WebApps.StaticWebAssets.xml
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.TagHelpers.input.cache
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.TagHelpers.output.cache
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.RazorCoreGenerate.cache
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Laptops\Create.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Laptops\Delete.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Laptops\Details.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Laptops\Edit.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Laptops\Index.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.RazorTargetAssemblyInfo.cache
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.RazorTargetAssemblyInfo.cs
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.Views.pdb
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.csproj.CopyComplete
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.dll
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.pdb
+C:\Users\kumar\Documents\Visual Studio 2022\WebApps\obj\Debug\netcoreapp3.1\WebApps.genruntimeconfig.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.csproj.AssemblyReference.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.GeneratedMSBuildEditorConfig.editorconfig
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.AssemblyInfoInputs.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.AssemblyInfo.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.csproj.CoreCompileInputs.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.MvcApplicationPartsAssemblyInfo.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.MvcApplicationPartsAssemblyInfo.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.RazorAssemblyInfo.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.RazorAssemblyInfo.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.dll
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.pdb
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\WebApps.StaticWebAssets.xml
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\WebApps.exe
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\WebApps.deps.json
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\WebApps.runtimeconfig.json
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\WebApps.runtimeconfig.dev.json
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\WebApps.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\WebApps.pdb
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\WebApps.Views.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\WebApps.Views.pdb
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Charan Project\New Web Apps\LaptopSearch\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\staticwebassets\WebApps.StaticWebAssets.Manifest.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\staticwebassets\WebApps.StaticWebAssets.xml
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApps.styles.css
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.TagHelpers.input.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.TagHelpers.output.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.RazorCoreGenerate.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Laptops\Create.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Laptops\Delete.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Laptops\Details.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Laptops\Edit.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Laptops\Index.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.RazorTargetAssemblyInfo.cache
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.RazorTargetAssemblyInfo.cs
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.Views.pdb
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.csproj.CopyComplete
+E:\Charan Project\New Web Apps\LaptopSearch\obj\Debug\netcoreapp3.1\WebApps.genruntimeconfig.cache
